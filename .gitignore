@@ -1,4 +1,4 @@
-password.txt
-githubdetails.txt
-dockerdetails.txt
-
+*.txt
+*.jpeg
+*.pem
+*.json
